@@ -18,7 +18,7 @@ git add .                                    // to add all files to uploud: must
 git commit -m "commit title"                //creat new commit
 git checkout -b 'new branch name'                     // Create new branch
 git branch                                    // Get current branch name
-git push -u origin "branch name"                  // push in a branch
+git push -u origin "branch name"                  // upload in a branch
 git push -u origin master                   // // push in a master to hold all version of project
 // Go to settings>branches  ans set the master to be the default branch
 
